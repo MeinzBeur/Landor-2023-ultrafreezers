@@ -4,4 +4,4 @@ Lotta A. I. Landor, Thomas M. J. Stevenson, Kyle M. J. Mayers, Mitchell S. Flemi
 
 Here are described the R scripts for the analysis and plotting of the data for this paper.
 
-- Figure 3A: 
+- The PCA plot: [Figure 3A](CoDA-analysis.md) 
