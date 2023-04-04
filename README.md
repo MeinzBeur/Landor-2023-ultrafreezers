@@ -11,7 +11,7 @@ The following links will bring you to:
 The following files are also given:
 - [Metadata.csv](Metadata.csv): The context information to the community samples.
 - [Otutab.sorted.tsv](Otutab.sorted.tsv): The OTU table produced by the sequence processing pipeline.
-- [assignments.txt](assignments.txt): The taxonomy information assigned by CREST4, prior to decontamination.
+- [assignments.csv](assignments.csv): The taxonomy information assigned by CREST4, prior to decontamination.
 - [Otus_curated.fasta](Otus_curated.fasta): Centroids of the OTUs. Not used in any script presented here.
 
 We do not describe here the making of figure 1 and 2, as they do not involve any analysis, just plotting. For the barplots presented in Supplementary material 3, we refer to the script described [there](https://github.com/MeinzBeur/LeMoineBauer-2022-Milos/blob/main/Barplots.md).
